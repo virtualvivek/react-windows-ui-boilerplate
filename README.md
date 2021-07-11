@@ -3,13 +3,13 @@ react-windows-ui starter boilerplate template repository.
 
 <img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_boilerplate_screen.JPG" width="800" />
 
-### You can Initialize you Repo with this `Template`:
+## You can Initialize you Repo with this `Template`:
 
 <img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="650" />
 
 OR <br>
 
-### Clone as a Repository:
+## Clone as a Repository:
 
 ```css
 $ git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
