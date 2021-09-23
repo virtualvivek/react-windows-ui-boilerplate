@@ -1,5 +1,5 @@
 import React from 'react'
-import { NavPageContainer } from 'react-windows-ui'
+import { NavPageContainer,NavPageContainerInner,NavPageContainerRight,Link } from 'react-windows-ui'
 
 class Page2 extends React.Component {
 
@@ -11,15 +11,28 @@ class Page2 extends React.Component {
 
 
   render() {
-
     return (
-    <NavPageContainer
-      hasPadding
-      animateTransition>
+      <NavPageContainer
+        hasPadding={false}
+        animateTransition={true}>
 
-      <h1>Page 2</h1>
-   
-     
+        <NavPageContainerInner>
+          <h1>Page2</h1>
+          <p>Page with split containers : center | right</p>
+          <Link>Components here</Link>
+          <br/>
+          <Link>Components here</Link>
+        </NavPageContainerInner>
+
+
+        <NavPageContainerRight>
+          <h4 className="m-0">Right Section Container</h4>
+          <p>Your Right container contents</p>
+          <Link>Components here</Link>
+          <br/>
+          <Link>Components here</Link>
+        </NavPageContainerRight>
+
     </NavPageContainer>
   );
 }
