@@ -13,13 +13,11 @@ class Page1 extends React.Component {
   render() {
     return (
     <NavPageContainer
-      hasPadding
-      animateTransition>
+      hasPadding={true}
+      animateTransition={true}>
 
       <h1>Page 1</h1>
       <p>Start adding your fantastic ui here.</p>
-      <Link>Components here</Link>
-      <br/>
       <Link>Components here</Link>
      
     </NavPageContainer>

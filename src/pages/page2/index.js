@@ -20,8 +20,6 @@ class Page2 extends React.Component {
           <h1>Page2</h1>
           <p>Page with split containers : center | right</p>
           <Link>Components here</Link>
-          <br/>
-          <Link>Components here</Link>
         </NavPageContainerInner>
 
 
@@ -30,7 +28,7 @@ class Page2 extends React.Component {
           <p>Your Right container contents</p>
           <Link>Components here</Link>
           <br/>
-          <Link>Components here</Link>
+          <Link>More Components here</Link>
         </NavPageContainerRight>
 
     </NavPageContainer>

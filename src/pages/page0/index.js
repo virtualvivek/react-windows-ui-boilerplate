@@ -14,14 +14,14 @@ class Page0 extends React.Component {
   render() {
     return (
     <NavPageContainer
-      animateTransition>
+      animateTransition={true}>
         <div
-          style={{backgroundColor:'#282C34',height:'100%',textAlign:'center'}}
+          style={{backgroundColor: '#282C34', height: '100%', textAlign: 'center'}}
           className="app-align-center">
             <br/><br/>
           <i className="icons10-windows app-align-center"
-            style={{fontSize:140,color:'#67DBF9'}}></i>
-          <div style={{color:'#fff'}}>
+            style={{fontSize: 140,color: '#67DBF9'}}></i>
+          <div style={{color: '#fff'}}>
             <h1 className="m-0">Welcome to react-windows-ui</h1>
             <br/><br/><br/><br/><br/><br/><br/>
             <h2>Edit App.js and save to see changes.</h2>
@@ -36,7 +36,7 @@ class Page0 extends React.Component {
      
     </NavPageContainer>
   );
-}
+ }
 }
 
 export default Page0
