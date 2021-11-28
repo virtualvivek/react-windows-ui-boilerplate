@@ -20,8 +20,6 @@
 
 **`‣ Initialize`** you repo with this **`Template`**:
 
-Create a repo using this template like below:
-
 <img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="650" />
 
 <b>OR</b> <br>
@@ -36,12 +34,17 @@ $ npm install
 $ npm start
 ```
 
-# `⚡ Docs`
+# Docs ⚡
 
 
 Find all components and their usage here:
 
 https://virtualvivek.github.io/react-windows-ui/
+
+
+# Repository
+
+https://github.com/virtualvivek/react-windows-ui
 
 
 
