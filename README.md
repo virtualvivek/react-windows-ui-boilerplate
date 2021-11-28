@@ -29,7 +29,7 @@ Create a repo using this template like below:
 
 **`‣ Clone`** as a **`Repository`:**
 
-```php
+```ksh
 $ git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
 $ cd react-windows-ui-boilerplate
 $ npm install
