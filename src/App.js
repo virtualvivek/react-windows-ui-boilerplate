@@ -20,7 +20,7 @@ const App = () => {
       <SplashScreen
         //duration={1000} /* Add additional delay before page loads */
         isVisible={splash}
-        title={"react-windows-ui"}
+        title={"App Name"}
       />
 
       <AppTheme // To make app reactive with theme
