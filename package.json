@@ -1,6 +1,6 @@
 {
   "name": "react-windows-ui-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "Build full featured Windows fluent UI apps using ReactJS.",
   "keywords": [
@@ -19,12 +19,12 @@
     "email": "author@email.com"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-router-dom": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.1",
-    "react-windows-ui": "^4.0.8",
-    "web-vitals": "^0.2.4"
+    "react-windows-ui": "^4.1.0",
+    "web-vitals": "^2.1.4"
   },
   "repository": {
     "type": "git",
