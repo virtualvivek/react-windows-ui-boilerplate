@@ -1,6 +1,6 @@
 # react-windows-ui-boilerplate
 **`react-windows-ui`** starter boilerplate template repository.
-## For `react-windows-ui -v4.1.0`
+## For `react-windows-ui` `-v4.1.0` & `-v4.2.0`
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualvivek/react-windows-ui-boilerplate?color=%9FEF00&label=template%20size&logo=HackTheBox&style=flat-square)
 ![GitHub](https://img.shields.io/github/license/virtualvivek/react-windows-ui-boilerplate?color=%230f79a3&style=flat-square)
