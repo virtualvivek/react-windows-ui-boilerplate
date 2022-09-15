@@ -13,21 +13,21 @@
 
 # Usage
 
-**`‣ Initialize`** you repo with this Template:
-
-<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="450" />
-
-<b>OR</b> <br>
-
-
-**`‣ Clone`**/**`Download`** as a Repository:
+**`‣ Clone`** / **`Download`** as a repository:
 
 ```html
-git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
 cd react-windows-ui-boilerplate
 npm install
 npm start
 ```
+
+<b>OR</b> <br>
+
+**`‣ Initialize`** you repo with this template:
+
+<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="450" />
+
+
 
 # Docs
 
