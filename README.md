@@ -1,37 +1,35 @@
 # react-windows-ui-boilerplate
-**`react-windows-ui`** starter boilerplate template repository.
-## For `react-windows-ui` `-v4.1.0` & `-v4.2.0`
+**react-windows-ui** starter boilerplate template repository.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/virtualvivek/react-windows-ui-boilerplate?color=%9FEF00&label=template%20size&logo=HackTheBox&style=flat-square)
-![GitHub](https://img.shields.io/github/license/virtualvivek/react-windows-ui-boilerplate?color=%230f79a3&style=flat-square)
-<a href="https://virtualvivek.github.io/react-windows-ui/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo & Docs-Here-green.svg?color=00C244&style=flat-square&logo=Github"
-      alt="Live Demo & Docs" />
-  </a>
+| react-windows-ui | Boilerplate |
+| ------------ | ------- |
+| **`-v4.1.0`** & **`-v4.2.0`**  | [‣ Current](https://github.com/virtualvivek/react-windows-ui-boilerplate/releases/tag/v4.1.0) |
 
-<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_boilerplate_screen.JPG" width="800" />
+
+
+<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_boilerplate_screen.JPG" width="500" />
 
 
 
 # Usage
 
-**`‣ Initialize`** you repo with this **`Template`**:
+**`‣ Initialize`** you repo with this Template:
 
-<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="650" />
+<img src="https://github.com/virtualvivek/react-windows-ui/blob/main/markdown/md_img_template_boilerplate.JPG" width="450" />
 
 <b>OR</b> <br>
 
 
-**`‣ Clone`** as a **`Repository`:**
+**`‣ Clone`**/**`Download`** as a Repository:
 
-```php
-$ git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
-$ cd react-windows-ui-boilerplate
-$ npm install
-$ npm start
+```html
+git clone https://github.com/virtualvivek/react-windows-ui-boilerplate.git
+cd react-windows-ui-boilerplate
+npm install
+npm start
 ```
 
-# Docs ⚡
+# Docs
 
 
 Find all components and their usage here:
