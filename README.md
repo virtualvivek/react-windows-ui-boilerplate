@@ -3,7 +3,7 @@
 
 | react-windows-ui | Boilerplate |
 | ------------ | ------- |
-| **`-v4.1.0`** & **`-v4.2.0`**  | [‣ Current](https://github.com/virtualvivek/react-windows-ui-boilerplate/releases/tag/v4.1.0) |
+| **`-v4.1.0`**, **`-v4.2.0`**  | [‣ Current](https://github.com/virtualvivek/react-windows-ui-boilerplate/releases/tag/v4.1.0) |
 
 
 
